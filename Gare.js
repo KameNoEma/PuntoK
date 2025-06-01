@@ -1150,7 +1150,7 @@ const tutteLeGare = [
     "categoria": "M21E",
     "tempo": "01:32:53",
     "nome": "Alessandro Rivetta",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "65.01",
     "femmina": false
   },
@@ -2102,7 +2102,7 @@ const tutteLeGare = [
     "categoria": "OPEN C",
     "tempo": "01:19:47",
     "nome": "Germana Altan",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "45.94",
     "femmina": true
   },
@@ -2806,7 +2806,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "00:53:13",
     "nome": "Clizia Zambiasi",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "78.58",
     "femmina": true
   },
@@ -2990,7 +2990,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "01:51:56",
     "nome": "Benedetta Marmiroli",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "37.36",
     "femmina": true
   },
@@ -3587,7 +3587,7 @@ const tutteLeGare = [
     "categoria": "M21E",
     "tempo": "00:41:25",
     "nome": "Alessandro Rivetta",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "73.52",
     "femmina": false
   },
@@ -5139,7 +5139,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "00:43:25",
     "nome": "Clizia Zambiasi",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "85.22",
     "femmina": true
   },
@@ -5315,7 +5315,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "01:42:00",
     "nome": "Benedetta Marmiroli",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "36.27",
     "femmina": true
   },
@@ -5904,7 +5904,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "00:33:46",
     "nome": "Clizia Zambiasi",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "69.64",
     "femmina": true
   },
@@ -5960,7 +5960,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "01:02:54",
     "nome": "Benedetta Marmiroli",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "37.39",
     "femmina": true
   },
